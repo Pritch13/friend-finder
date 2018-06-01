@@ -11,27 +11,50 @@
     color: white;
 }
 
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
 #intro {
     font-size: 80px;
 }
 
 #explore {
     color: white;
+    font-size: 20px;
+}
+
+#exploreSurv {
+    background: rgba(0, 0, 0, 0.301);
+    color: white;
+    font-size: 20px;
 }
 
 form {
-    background: black;
-    color: black;
+    /* background: rgba(0, 0, 0, 0.301); */
+    /* color: rgba(0, 0, 0, 0.301); */
+    margin-bottom: 20px;
 }
 
 .surveryDiv {
-    background: black;
-    color: black;
+    /* background: rgba(0, 0, 0, 0.301); */
+    /* color: rgba(0, 0, 0, 0.301); */
     border-radius: 18px;
+    margin-bottom: 20px;
 }
 
 .form-group {
-    background: black;
-    color: black;
+    background: rgba(0, 0, 0, 0.301);
+    /* color: rgba(0, 0, 0, 0.301); */
     margin-top: 5px;
+    border-radius: 5px;
+}
+
+label {
+    background: rgba(0, 0, 0, 0.062);
+    margin-left: 10px;
+}
+
+.form-control {
+    color: white;
 }
