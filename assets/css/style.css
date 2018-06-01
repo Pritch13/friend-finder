@@ -1,0 +1,37 @@
+.typed-cursor {
+	visibility: hidden;
+}
+
+* {
+    background: url("http://s1.funon.cc/img/orig/201803/21/5ab1d2e695898.jpg")no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: white;
+}
+
+#intro {
+    font-size: 80px;
+}
+
+#explore {
+    color: white;
+}
+
+form {
+    background: black;
+    color: black;
+}
+
+.surveryDiv {
+    background: black;
+    color: black;
+    border-radius: 18px;
+}
+
+.form-group {
+    background: black;
+    color: black;
+    margin-top: 5px;
+}
