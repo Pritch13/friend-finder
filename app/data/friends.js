@@ -1,17 +1,8 @@
 var friendsData = [
     {
       name: "Ahmed",
-      picture: "google.com",
-      answer1: 1,
-      answer2: 2,
-      answer3: 1,
-      answer4: 2,
-      answer5: 1,
-      answer6: 2,
-      answer7: 1,
-      answer8: 2,
-      answer9: 1,
-      answer10: 2
+      photo: "http://www.wallpaper.ge/download/animals_hq_wallpapers_26-1280x960.jpg",
+      score: [1,2,1,2,3,4,5,6,5,4]
     }
   ];
   

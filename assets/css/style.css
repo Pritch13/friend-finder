@@ -20,8 +20,14 @@ h1 {
 }
 
 #explore {
+    transition: border-radius 0.5s ease;
     color: white;
     font-size: 20px;
+    border-radius: 5px;
+}
+
+#explore:hover {
+    border-radius: 50px;
 }
 
 #exploreSurv {
@@ -57,4 +63,20 @@ label {
 
 .form-control {
     color: white;
+}
+
+#destText {
+    font-size: 80px;
+    margin-top: 30%;
+}
+
+.matchPic {
+    width: 480px;
+    border-radius: 28px;
+    border: 1px solid white;
+    margin-top: 45px;
+}
+
+#matchName {
+    margin-top: 50px;
 }
