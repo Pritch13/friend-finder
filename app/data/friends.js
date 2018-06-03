@@ -1,22 +1,22 @@
 var friendsData = [
     {
         name: "Steve",
-        photo: "http://www.wallpaper.ge/download/animals_hq_wallpapers_26-1280x960.jpg",
+        photo: "https://images.pexels.com/photos/414562/pexels-photo-414562.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         score: [1, 2, 1, 2, 3, 4, 5, 5, 5, 4]
     },
     {
         name: "Sam",
-        photo: "http://www.wallpapersshock.com/uploads/large/hd-animals-wallpapers/free-hd-hq-animals-wallpapers-download.jpg",
+        photo: "https://images.pexels.com/photos/63650/frog-toad-eyes-animal-63650.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         score: [4, 4, 1, 3, 3, 4, 2, 1, 5, 5]
     },
     {
         name: "Owen",
-        photo: "http://1.bp.blogspot.com/-1CNKkpbwOr4/T7kkQFBFLaI/AAAAAAAAVA0/f-lMJvsU1hI/s1600/Black-Panther-animals-Roaring-Wallpaper.jpg",
+        photo: "https://images.pexels.com/photos/53151/white-tailed-eagle-adler-bald-eagle-close-53151.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         score: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
     },
     {
         name: "Chris",
-        photo: "https://www.pexels.com/photo/animal-africa-zoo-lion-33045/",
+        photo: "https://images.pexels.com/photos/33045/lion-wild-africa-african.jpg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
         score: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
     }
 ];

@@ -65,7 +65,7 @@ $("#exploreSurv").on("click", function (event) {
             $("#answer10").val("1");
 
             $("#matchName").text(data.name);
-            $(".matchInfo").append("<img class='matchPic'src=" + data.pic + "alt='match photo'>")
+            $(".matchInfo").append("<img class='matchPic'src=" + data.pic + " alt='matchedPerson'>")
 
 
         });
