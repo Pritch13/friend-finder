@@ -6,17 +6,17 @@ var friendsData = [
     },
     {
         name: "Sam",
-        photo: "http://picturescollections.com/wp-content/uploads/2012/02/00201.jpg",
+        photo: "http://www.wallpapersshock.com/uploads/large/hd-animals-wallpapers/free-hd-hq-animals-wallpapers-download.jpg",
         score: [4, 4, 1, 3, 3, 4, 2, 1, 5, 5]
     },
     {
         name: "Owen",
-        photo: "https://s-media-cache-ak0.pinimg.com/originals/16/13/ef/1613efbb00f5f0adc9e3b30538215088.jpg",
-        score: [1, 2, 1, 2, 3, 4, 5, 5, 5, 4]
+        photo: "http://1.bp.blogspot.com/-1CNKkpbwOr4/T7kkQFBFLaI/AAAAAAAAVA0/f-lMJvsU1hI/s1600/Black-Panther-animals-Roaring-Wallpaper.jpg",
+        score: [5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
     },
     {
         name: "Chris",
-        photo: "https://s-media-cache-ak0.pinimg.com/originals/16/13/ef/1613efbb00f5f0adc9e3b30538215088.jpg",
+        photo: "https://www.pexels.com/photo/animal-africa-zoo-lion-33045/",
         score: [2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
     }
 ];

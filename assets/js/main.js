@@ -42,8 +42,10 @@ $("#exploreSurv").on("click", function (event) {
     // The AJAX function uses the URL of our API to GET the data associated with it (initially set to localhost)
     $.ajax({ url: currentURL + "/api/friends", method: "GET" })
         .then(function (friendsData) {
-            $("#matchName").text(friendsData[0].name);
-            $(".matchInfo").append("<img class='matchPic'src=" + friendsData[0].photo + "alt='match photo'>")
+ 
+
+
+            
         });
 
     $.post("/api/friends", newFriend,
@@ -61,6 +63,9 @@ $("#exploreSurv").on("click", function (event) {
             $("#answer8").val("1");
             $("#answer9").val("1");
             $("#answer10").val("1");
+
+            $("#matchName").text(data.name);
+            $(".matchInfo").append("<img class='matchPic'src=" + data.pic + "alt='match photo'>")
 
 
         });
